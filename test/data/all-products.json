@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Apple AirPods",
+    "description": "Pro",
+    "price": 239000
+  },
+  {
+    "name": "Apple AirPods Max",
+    "description": "Pro",
+    "price": 769000
+  },
+  {
+    "name": "Apple MacBook Air",
+    "description": "Pro",
+    "price": 1590000
+  }
+]
